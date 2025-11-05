@@ -3,4 +3,6 @@ In this repository, you will find reports, code, and data output for the project
 
 <p align="center">
   <img src="Figure/angle_domains.png" alt="Angle Domains Diagram">
+  <br>
+  <em>Two representative structures of Arc Human (Uniprot: Q7LC44)</em>
 </p>
